@@ -6,7 +6,7 @@ I'm using this portfolio to showcase my skills, projects, work, and professional
 
 ## 🌐 Explore My Portfolio
 
-🔗 **[Visit My Portfolio Website](https://khushi325.github.io/Anubhav_Portfolio/)**
+🔗https://rad-dodol-dfdf1e.netlify.app/
 
 ## 👨‍💻 About Me
 
@@ -61,7 +61,7 @@ If you'd like to explore the source code on your computer:
 
 Feel free to explore my portfolio and check out my work.
 
-🌐 **Portfolio:** [Visit Website](https://khushi325.github.io/Anubhav_Portfolio/)
+🌐 **Portfolio:** https://rad-dodol-dfdf1e.netlify.app/
 
 ---
 
